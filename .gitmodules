@@ -1,0 +1,3 @@
+[submodule "easy-format"]
+	path = easy-format
+	url = git@github.com:mjambon/easy-format.git
