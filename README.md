@@ -1,16 +1,2 @@
+bs-binding of [easy-format](https://github.com/mjambon/easy-format)
 
-
-# Build
-```
-npm run build
-```
-
-# Watch
-
-```
-npm run watch
-```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
