@@ -1,9 +1,10 @@
 {
   "name": "bs-easy-format",
+  "main": "index.js",
   "version": "0.1.0",
   "scripts": {
     "clean": "bsb -clean-world",
-    "build": "bsb -make-world",
+    "build": "bsb -make-world && mv easy-format/src/easy_format.bs.js ./index.js",
     "watch": "bsb -make-world -w"
   },
   "keywords": [
